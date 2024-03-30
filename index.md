@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog - Hello World 🌍
+title: Hello World 🌍
 ---
 
