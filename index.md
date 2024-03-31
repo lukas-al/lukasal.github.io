@@ -2,7 +2,6 @@
 title: Hello World 🌍
 ---
 
-# {{ page.title }}
 > *{{ site.description }}*
 
 ## Lorem Ipsum
