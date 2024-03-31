@@ -8,4 +8,4 @@ date: 2024-03-30
 # Live fast, die young.
 LOREM IPSUM DOLOR EST
 
-{% include footer.html %}
+<!-- {% include footer.html %} -->

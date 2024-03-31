@@ -11,4 +11,4 @@ title: Hello World 🌍
 The demo home page of this website, written by {{ site.author }}.
 
 
-{% include footer.html %}
+<!-- {% include footer.html %} -->
