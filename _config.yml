@@ -5,7 +5,7 @@ author: Lukas Alemu
 description: A small corner of the internet, for me, and open to you.
 
 exclude: 
-  - 'README.md', 
+  - 'README.md'
   - 'LICENSE.txt'
   - 'CONTRIBUTING.md'
   - '**/.gitkeep'
