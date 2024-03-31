@@ -3,3 +3,10 @@ theme: minima
 title: My personal website
 author: Lukas Alemu
 description: A small corner of the internet, for me, and open to you.
+
+exclude: 
+  - 'README.md', 
+  - 'LICENSE.txt'
+  - 'CONTRIBUTING.md'
+  - '**/.gitkeep'
+  - '.gitignore'
