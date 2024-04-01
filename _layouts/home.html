@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/home.css">
+</head>
+
+<div class="hero-slider">
+    <img src="/assets/images/hero1.jpg" alt="Hero Image 1">
+    <img src="/assets/images/hero2.jpg" alt="Hero Image 2">
+    <img src="/assets/images/hero3.jpg" alt="Hero Image 3">
+</div>
+
+<div class="blog-items">
+    {% for post in site.posts %}
+    <div class="blog-item">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+    </div>
+    {% endfor %}
+</div>
